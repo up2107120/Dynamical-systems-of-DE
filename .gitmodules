@@ -1,0 +1,3 @@
+[submodule "Kosmulator"]
+	path = Kosmulator
+	url = https://github.com/renierht/Kosmulator.git
